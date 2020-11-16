@@ -1,8 +1,8 @@
 # DH 150 Assignment 6 - Low Fidenlity Prototype
 
-Purpose: 
-[1] to begin working through how exactly the user will interact with the application
-[2] to learn how to use low-fidelity prototyping in the earrly stages of design
+### Purpose:
+[1] to begin working through how exactly the user will interact with the application.
+[2] to learn how to use low-fidelity prototyping in the earrly stages of design.
 
 ## Project Description
 The current project will try to ease the discomfort of user's in their effort of daily cooking. During this unpleasant time, a handy and easy-to-use app will eliminate the pain in the user's task to think and look for an unique and balanced food recipe, and do a grocery shopping for those ingredients. Following features will likely to diminish the pain from the user research:
