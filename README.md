@@ -11,7 +11,7 @@ The current project will try to ease the discomfort of user's in their effort of
 - calorie, ingredient list
 - pick up or delivery option for those ingredients
 
-:These functions will allow a user to easliy look receive inspiration for their cooking. It will provide conveninece and security by shortening their grocery shopping process. Therefore, will make cooking more fun and desirable!
+: These functions will allow a user to easliy look receive inspiration for their cooking. It will provide conveninece and security by shortening their grocery shopping process. Therefore, will make cooking more fun and desirable!
 
 The purpose of this fidelity test is to test the user interface with the prototype. The flow of the user's naviagtion along the app will test the accessibility of the app.
 
