@@ -5,7 +5,7 @@
 - to learn how to use low-fidelity prototyping in the earrly stages of design.
 
 ## Project Description
-The current project will try to ease the discomfort of user's in their effort of daily cooking. During this unpleasant time, a handy and easy-to-use app will eliminate the pain in the user's task to think and look for an unique and balanced food recipe, and do a grocery shopping for those ingredients. Following features will likely to diminish the pain from the user research:
+The current project will try to ease the discomfort of user's in their effort of daily cooking. During this unpleasant time, a handy and easy-to-use app will eliminate the pain in the user's task to think and look for an unique and balanced food recipe, and do a grocery shopping for those ingredients. Followings are the touchpoints of where the impovement and development should be focused on:
 
 - easy way to look for particular food recipe
 - calorie, ingredient list
@@ -13,7 +13,7 @@ The current project will try to ease the discomfort of user's in their effort of
 
 : These functions will allow a user to easliy look receive inspiration for their cooking. It will provide conveninece and security by shortening their grocery shopping process. Therefore, will make cooking more fun and desirable!
 
-The purpose of this fidelity test is to test the user interface with the prototype. The flow of the user's naviagtion along the app will test the accessibility of the app.
+The purpose of this low-fidelity prototype is to test the user interface with the prototype. The flow of the user's naviagtion along the app will test the usability and the level of utilization of the app.
 
 
 ## Tasks
