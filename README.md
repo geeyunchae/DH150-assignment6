@@ -28,7 +28,6 @@ https://docs.google.com/presentation/d/1b2ONI2hN6F3NBbLEs0OYS90shQ6gfe4-SzAvcnWQ
 ## Wireflows can be found here
 https://docs.google.com/presentation/d/1E56-ncEU0sxBD47r09uu68srVMo9PTEddVgFXbjowuo/edit?usp=sharing
 
-
 ## Notes on Wireflow Test
 ### Task 1
 From the task, I realized that it actually took about 5 min. for the users to search their recipes. I noticed that users were likely to use the modifier function after they picked the categories with several of attempts of search. I noticed that they had a little difficulity in recognizing the function icons in the modifier, because there was a short pause after they saw the buttoms. By this, it might be better to word the icons out rather than using the drawing icons. After few minutes, the users seem to be able to pick out the food that they liked.
