@@ -26,7 +26,7 @@ The purpose of this low-fidelity prototype is to test the user interface with th
 ## Wireframes can be found here
 https://docs.google.com/presentation/d/1b2ONI2hN6F3NBbLEs0OYS90shQ6gfe4-SzAvcnWQ--A/edit?usp=sharing
 ## Wireflows can be found here
-https://docs.google.com/presentation/d/1E56-ncEU0sxBD47r09uu68srVMo9PTEddVgFXbjowuo/edit?usp=sharing
+![image](wireflow.jpg)
 
 ## Notes on Wireflow Test
 ### Task 1
